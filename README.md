@@ -1,11 +1,7 @@
 # ⏲️ Relógio Cronômetro
 
 ### ⛔ Dependências
- <b>- ⚠️ QtCore </b>
-- pip install PyQt5==5.15.2
-<br>
-
- <b>- ⚠️ PySide2</b>
+<b>- ⚠️ PySide2</b>
 - pip install PySide2
 <br>
 
