@@ -10,6 +10,8 @@
 
  <b>- Como gerar o executável</b>
 - 1º Instale o pyinstaller -> pip install pyinstaller
-- 2º Use o comando -> pyinstaller Program.py
+- 2º Use o comando -> pyinstaller Program.py --noconsole
 - 3º Quando terminar será criada algumas pastas, vá em dist/Program e execute Program.exe
 <br>
+<br>
+<b> Visual criado com: Qt Designer </b>
