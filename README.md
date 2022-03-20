@@ -5,9 +5,6 @@
 - pip install PySide2
 <br>
 
-  <b>- ⚠️ PyQt5</b>
-- pip install pyqt5
-
  <b>- Como gerar o executável</b>
 - 1º Instale o pyinstaller -> pip install pyinstaller
 - 2º Use o comando -> pyinstaller --noconsole --onefile --icon="visual/icon.ico" Program.py
