@@ -1,14 +1,8 @@
 # -*- coding: utf-8 -*- --noconsole
 
-import sys, time
-from datetime import datetime
-from threading import Thread
-
-import PySide2
-from PySide2 import QtCore, QtGui, QtWidgets
-from cybersecp import Ui_Dialog
-from PyQt5.QtCore import QThread, pyqtSignal
-
+import sys, PySide2
+from PySide2 import QtGui, QtWidgets
+from visual.cybersecp import Ui_Dialog
 from Threads import Relogio, Cronometro
 
 class MainWindow(QtWidgets.QMainWindow, Ui_Dialog):

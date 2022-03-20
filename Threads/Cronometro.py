@@ -1,5 +1,4 @@
 from threading import Thread
-from datetime import datetime
 import time
 
 class cronometro:

@@ -10,7 +10,7 @@
 
  <b>- Como gerar o executável</b>
 - 1º Instale o pyinstaller -> pip install pyinstaller
-- 2º Use o comando -> pyinstaller Program.py --noconsole --onefile -F
+- 2º Use o comando -> pyinstaller --noconsole --onefile --icon="visual/icon.ico" Program.py
 - 3º Quando terminar será criada algumas pastas, vá em dist/ e execute Program.exe
 <br>
 <br>
